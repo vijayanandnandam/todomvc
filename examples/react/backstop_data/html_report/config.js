@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Todo_Homepage_0_document_0_phone.png",
-        "test": "../bitmaps_test/20200208-110646/backstop_default_Todo_Homepage_0_document_0_phone.png",
+        "test": "../bitmaps_test/20200208-112040/backstop_default_Todo_Homepage_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Todo_Homepage_0_document_0_phone.png",
         "label": "Todo Homepage",
@@ -21,7 +21,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Todo_Homepage_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20200208-110646/backstop_default_Todo_Homepage_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20200208-112040/backstop_default_Todo_Homepage_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Todo_Homepage_0_document_1_tablet.png",
         "label": "Todo Homepage",
